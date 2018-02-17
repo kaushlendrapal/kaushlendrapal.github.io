@@ -1,7 +1,5 @@
-##                                                   KAUSHLENDRA PAL
-
-#######  Electronic City, Bangalore, Karnataka 560100 | C: 8762548021 | kaushalyuvi@gmail.com
-Summary
+                Electronic City, Bangalore, Karnataka 560100 | C: 8762548021 | kaushalyuvi@gmail.com
+     Summary
 
       Overall 6+ years of relevant work experience in iOS mobile Technology.
       Expertise in:

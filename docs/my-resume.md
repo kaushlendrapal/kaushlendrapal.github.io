@@ -19,24 +19,131 @@ Passionate about solving complex problems, driving innovation, and mentoring fut
 
 
 ## 🚀 Core Skills
+Swift, Objective-C, Kotlin, Java, Dart, UIKit, SwiftUI, Jetpack Compose
 
-Mobile App Development: Swift, Objective-C, Kotlin, UIKit, SwiftUI, Android Studio
+## My Editors:
+Xcode, Android Studio, Visual Studio
 
-Architecture & System Design: Modular Architecture, MVC, MVVM, VIPER, UML Diagrams
+## My Platform:
+iOS, Android, iPadOS, macOS, tvOS
 
-Media Streaming Expertise: HLS, DRM Protection, AES Encryption, DVR, AdTech
+## Build for Scale And Build for Premium Service, What works for you:
 
-Cross-Platform Expertise: iOS, tvOS, Android, iPadOS, macOS
 
-DevOps & CI/CD: Jenkins, Fastlane, GitHub Actions, TestFlight, App Store Connect
+## Archicture Skills:
+Performed Job with a strong focus on designing scalable, modular, and maintainable app architectures across iOS and Android platforms. My work centers around building future-ready mobile solutions using modern paradigms that align with the evolving needs of fast-paced engineering teams and large-scale products.
 
-Data & Analytics: Firebase, App Performance Monitoring, Crashlytics
+🔹 Architecture-First Mindset
+I specialize in Single-Activity Architecture and Multi-Module Architecture, ensuring clear separation of concerns, faster builds, and enhanced code reusability. My architectural approach is deeply influenced by Feature-First Development, which allows teams to iterate independently, ship faster, and scale confidently.
 
-Project Management: Agile, Scrum, Milestone Planning, Team Building
+🔹 Scalability with Clarity
+For apps with complex data flows and team collaboration, I embrace Unidirectional Data Flow, helping reduce side effects and improve state management clarity. This is coupled with principles from Clean Architecture, SOLID design, and MVI/MVVM patterns, to enforce structure while keeping codebases testable and maintainable over time.
 
-Tools: Xcode, Android Studio, Jira, Confluence, Postman, Charles Proxy
+🔹 Cross-Platform Balance
+I bring architectural consistency across platforms, adapting patterns for SwiftUI/UIKit on iOS, and Jetpack/Kotlin on Android. Whether building a new app or refactoring legacy code, I ensure the same architectural principles apply, from the core to UI layer.
 
-Other Competencies: Animation Systems, Deep Linking, Feature Flagging, LiveOps Delivery
+🔹 Code Quality & Programming Philosophy
+My development style emphasizes protocol-oriented and reactive programming, with a strong preference for Test-Driven Development (TDD). I believe great architecture empowers teams—not just the app—and I focus on setting up systems that are easy to onboard, scale, and evolve.
+
+🔹 Team & Process Alignment
+Beyond code, I lead architecture reviews, mentor devs, and integrate tooling (CI/CD, linters, SonarQube) to uphold standards. I strive to create an engineering culture where architecture is not a bottleneck but a catalyst for velocity and stability.
+
+
+## My Tech Openion:
+Unit Testing, Team Building, Automation, 3rd party framework, Paid Solutions. MVP App, My Walking Skelton. Animation Rich App.
+Why MVVM wins always.
+Will VIP works for me.
+Why not MVP any more.
+Why VIPER is absolute for FE design.
+
+
+## 🔧 Troubleshooting & Diagnostic Expertise:
+Crash Diagnostics & Stability: Expertise in tools like Firebase Crashlytics, Logcat, Console logs, ANR trace files, and UI hang detection to rapidly trace and fix runtime and startup crashes.
+
+Performance Optimization: Hands-on experience using Xcode Instruments, Android Profiler, Systrace, and real-time network monitoring to uncover performance bottlenecks and improve responsiveness.
+
+Build System & Dependency Conflicts: Skilled in resolving build failures and dependency issues using Shell scripting, XcodeBuild, and Gradle Tasks, with CI/CD integration into TestFlight, Google Play Beta, and release pipelines.
+
+Network & API Troubleshooting: Proficient with Charles Proxy, Postman, ADB tools, Wireshark, and Network Link Conditioner for debugging REST APIs, network conditions, and SSL layer issues.
+
+Release Distribution Challenges: Specialized in resolving issues related to deep linking, push notifications (Firebase, APNs), and App Store review rejections by managing app entitlements, permissions, and privacy compliance.
+
+Code Quality & Tooling: Leverage tools like SonarQube, APK Analyzer, and Firebase Performance to proactively monitor application health and maintain high standards across feature releases.
+
+
+## 💳 Mobile Payment Integration Expert (iOS & Android):
+In-App Purchase (IAP): Implemented and managed recurring subscription flows on iOS using StoreKit 2, including client/server-side receipt validation, entitlement management, and full lifecycle handling with Sandbox account testing.
+
+Apple Pay: Integrated secure, native payment experiences using PassKit, enabling biometric-authenticated bill payments and seamless Apple Pay checkouts.
+
+Google Pay & Android Billing: Integrated Google Pay and managed subscription flows using com.android.billingclient:billing library, with real-time handling of purchase tokens, SKU management, and sandbox testing.
+
+Third-party Gateways: Integrated PayU and BuyNet for direct billing and utility payments with secure tokenization, refund workflows, and transaction reconciliation.
+
+Billing & Invoicing Expertise: Deep understanding of mobile billing systems, invoicing use cases, and subscription revenue tracking across iOS and Android platforms.
+
+## 📢 Advertisement Integration Expertise (iOS)
+Proficient in implementing advanced ad experiences in iOS applications, with hands-on expertise in Bumper Ads, Pre-Roll, Mid-Roll, and Post-Roll ad insertions to optimize user engagement and monetization. Integrated multiple ad platforms including Google Ad Manager (GAM), Facebook Ads, Monetization via AKAD, and Custom Mediation Ad frameworks, ensuring seamless ad delivery and higher fill rates.
+
+Specialized in both Client-Side Ad Insertion (CSAI) and Server-Side Ad Insertion (SSAI), including Spot-Stitched Ads using Amazon Media Tailor for reliable, broadcast-quality playback experiences. Implemented rich brand experiences through Carousel Ads, Sponsorship Branding, and Media Ads, enhancing user interaction and advertiser value.
+
+
+## 📺 Media Streaming Expertise
+iOS Development
+Designed and developed robust media playback experiences using AVPlayer with advanced support for HLS streaming, FairPlay DRM, and AES-128 encryption. Implemented DVR functionality for live video, custom playback UI, and integrated video ad monetization via both server-side and client-side ad insertion. Ensured performance optimization using observability and monitoring tools like Mux, Youbora, and Firebase Performance Monitoring. Delivered scalable solutions across iOS, iPadOS, tvOS, and macOS platforms.
+
+Android Development
+Engineered secure and adaptive streaming capabilities using ExoPlayer, supporting HLS, Widevine DRM, and AES encryption. Built features like live playback with DVR, ad tech integration, and seamless playback under fluctuating network conditions. Embedded real-time performance analytics using Mux, Youbora, Mixpanel, and Kibana, enabling data-driven insights and quality improvements across Android phones, tablets, and TV devices.
+
+## 🚀 CICD Skills
+I’ve built and maintained scalable CI/CD pipelines for iOS, Android, and Flutter applications, integrating tools and practices across modern delivery platforms to enable continuous integration, testing, and release automation.
+
+iOS:
+For iOS, I automate build workflows using Shell scripts, xcodebuild, and Fastlane actions. CI pipelines are deployed through:
+GitHub Actions for modular workflows and parallel builds.
+Xcode Cloud for seamless integration with Apple’s ecosystem.
+Jenkins, GitLab CI, and Bamboo pipelines with declarative YML jobs to execute linting (via SwiftLint), unit/UI tests, code signing, and .ipa packaging.
+Final builds are distributed via TestFlight or App Store Connect, with automated changelogs and environment-based configuration.
+
+Android:
+For Android projects, I use Gradle tasks within:
+GitHub Actions, Jenkins Pipelines, and GitLab CI/CD YML files for flavor-based builds, instrumentation tests, linting, and ProGuard configuration.
+Build artifacts (.apk/.aab) are uploaded to Google Play Console via Fastlane.
+Husky pre-commit hooks ensure static code analysis and formatting compliance.
+
+Flutter:
+Flutter workflows are unified across platforms using:
+Custom shell scripts, flutter build, and Fastlane integrations.
+CI/CD managed in GitHub Actions, GitLab .gitlab-ci.yml, and Jenkinsfile, automating build, test, linting (flutter analyze), and store deployment.
+
+Pipeline Setup:
+Jenkins: Custom pipelines via Jenkinsfile integrating xcodebuild, gradle, and flutter commands with SonarQube scan stages.
+GitLab: .gitlab-ci.yml scripts that manage matrix builds for iOS/Android/Flutter, triggering lint/test/build/deploy jobs.
+Bamboo: Modular jobs handling build/test/publish steps, with plan branches auto-triggered on Git events.
+
+Quality Gates Tools:
+SonarQube is integrated in all pipelines to enforce code quality, security, and coverage metrics.
+Linter tools (SwiftLint, Android Lint, Flutter Analyze) and Husky hooks catch issues early during commit.
+Secrets management, environment-specific configurations, and secure artifact handling ensure compliance and operational reliability.
+
+## 🚀 Trabullshooting Skills
+
+
+## 🚀 Analytical Skills
+
+I’ve worked closely with data analysts and product teams to track product performance, feature resiliency, and user engagement across iOS, Android, and Flutter platforms. My analytics contributions span several strategic verticals:
+
+Marketing & Behavioral Analytics: Integrated tools like Mixpanel, Firebase Analytics, and CleverTap to enable tokenized, tag-based analytics and advanced A/B testing. Leveraged Branch.io for deep linking and campaign attribution tailored to industry-specific KPIs.
+
+User Feedback & Engagement: Monitored app store ratings, user reviews, production adoption, user session tracking, and engagement flow using Firebase, Mixpanel, and CleverTap for continuous feedback loops and lifecycle optimization.
+
+Feature Resiliency & Observability: Ensured network and session stability by implementing observability tools like GameBench, Firebase Performance Monitoring, Firebase Non-Fatal error tracking, AWS CloudWatch, and Kibana for real-time diagnostics and trend analysis.
+
+Media Streaming Analytics: Worked with Mux and Youbora to measure adaptive bitrate streaming, error rates, buffering time, and DRM performance in live and on-demand media workflows.
+
+Non-Functional Quality Monitoring: Integrated Crashlytics, alerting workflows, and PagerDuty incident management for crash tracking and response. Focused on stability metrics and fast resolution of production issues.
+
+Growth & Store Metrics: Utilized iTunes Connect and Google Play Console analytics to benchmark platform adoption, monitor release performance, and align distribution strategies with growth goals.
 
 
 ## 🏆 Key Achievements

@@ -1,6 +1,8 @@
 ---
 title: CHANGELOG
 layout: default
+published: true
+nav_exclude: true
 ---
 
 # CHANGELOG

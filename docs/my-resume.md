@@ -1,6 +1,6 @@
 ---
 title: "My Resume"
-nav_order: 1.6
+nav_order: 2.0
 ---
 
 # Kaushlendra Pal

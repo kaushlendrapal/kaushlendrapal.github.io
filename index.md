@@ -1,7 +1,7 @@
 ---
-title: FE DEV STUFF
+title: Home
 layout: home
-nav_order: 1.5
+nav_order: 1.0
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---

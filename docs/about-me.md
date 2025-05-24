@@ -1,6 +1,6 @@
 ---
 title: About Me
-nav_order: 1
+nav_order: 1.5
 ---
 
 ## Professional Summary:

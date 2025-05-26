@@ -23,8 +23,8 @@ I'm 𝐊𝐚𝐮𝐬𝐡𝐚𝐥 🧑‍💻. Having 13 years of experience with
 
 ---
 ## Unit Testing, Team Building, Automation, 3rd party framework, Paid Solutions. MVP App, My Walking Skelton. Animation Rich App.
-## Why MVVM wins always.
-## Will VIP works for me.
+[Why MVVM wins always]!
+ Will VIP works for me.
 ## Why not MVP any more.
 ## Why VIPER is absolute for FE design.
 
@@ -53,5 +53,9 @@ Designed and implemented UML and Data Flow Diagrams for management and cross-tea
 
 
 
-## ✨ Personal Motto
+[Personal Motto]!
 "Build scalable apps. Architect for the future. Lead with empathy."
+[my resume]({{ "../docs/my-resume/" | relative_url }})
+
+----
+[Personal Motto]: {{ "../docs/my-resume/" | relative_url }}

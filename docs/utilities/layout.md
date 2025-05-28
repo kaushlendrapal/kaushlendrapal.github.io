@@ -1,6 +1,6 @@
 ---
 title: Layout
-parent: Utilities
+parent: ios
 ---
 
 # Layout Utilities

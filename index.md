@@ -6,60 +6,47 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
-
-Kaushal Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
-
----
-
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
-
-Browse the docs to learn more about how to use this theme.
-
-## Getting started
-
-provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site.
-
 {: .note }
 To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
 
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
+---
 
-More specifically, the created site:
+## Recent Blogs
 
-- uses a gem-based approach
-- uses the github
+<div style="display: flex; flex-direction: column; gap: 1.5rem;">
 
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+<!-- Card 1 -->
+<div style="border: 1px solid #ddd; padding: 1rem; border-radius: 0.5rem;">
+  <h2 style="margin-top: 0;"><a href="/blog/ios-networking-guide">📱 iOS Networking Guide</a></h2>
+  <p>Learn how to handle REST APIs, authentication, and error handling in Swift-based iOS apps.</p>
+  <p>
+    <span style="background: #f1f1f1; padding: 0.2rem 0.5rem; border-radius: 5px;">iOS</span>
+    <span style="background: #f1f1f1; padding: 0.2rem 0.5rem; border-radius: 5px;">Swift</span>
+  </p>
+</div>
 
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
+<!-- Card 2 -->
+<div style="border: 1px solid #ddd; padding: 1rem; border-radius: 0.5rem;">
+  <h2 style="margin-top: 0;"><a href="/blog/android-jetpack-compose">📱 Jetpack Compose Essentials</a></h2>
+  <p>A quick guide to building modern UIs with Jetpack Compose and Kotlin on Android.</p>
+  <p>
+    <span style="background: #f1f1f1; padding: 0.2rem 0.5rem; border-radius: 5px;">Android</span>
+    <span style="background: #f1f1f1; padding: 0.2rem 0.5rem; border-radius: 5px;">Jetpack Compose</span>
+  </p>
+</div>
 
+<!-- Card 3 -->
+<div style="border: 1px solid #ddd; padding: 1rem; border-radius: 0.5rem;">
+  <h2 style="margin-top: 0;"><a href="/blog/flutter-performance-tips">🚀 Flutter Performance Tips</a></h2>
+  <p>Optimize Flutter apps using build methods, widget trees, and proper state management.</p>
+  <p>
+    <span style="background: #f1f1f1; padding: 0.2rem 0.5rem; border-radius: 5px;">Flutter</span>
+    <span style="background: #f1f1f1; padding: 0.2rem 0.5rem; border-radius: 5px;">Performance</span>
+  </p>
+</div>
 
-### Code of Conduct
+</div>
 
-
-
-----
-
-[Jekyll]: https://jekyllrb.com
-[Markdown]: https://daringfireball.net/projects/markdown/
-[Liquid]: https://github.com/Shopify/liquid/wiki
-[Front matter]: https://jekyllrb.com/docs/front-matter/
-[Jekyll configuration]: https://jekyllrb.com/docs/configuration/
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.com
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 
 [customize]: {% link docs/customization.md %}
 [use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }

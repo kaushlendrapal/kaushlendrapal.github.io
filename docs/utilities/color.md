@@ -1,6 +1,6 @@
 ---
 title: Color
-parent: Utilities
+parent: ios
 ---
 
 # Color Utilities

@@ -5,14 +5,16 @@ nav_order: 1.5
 
 ## Who Am I
 
-I'm 𝐊𝐚𝐮𝐬𝐡𝐚𝐥 🧑‍💻. Having 13+ years of experience with iOS & Android app Developer. 
+I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in iOS and Android app development.
 
-- Currently, working with [British Telecom]! as Lead Mobile Developer.
-- Re-architecture and built Voot, 𝐉𝐢𝐨 𝐂𝐢𝐧𝐞𝐦𝐚 A𝐩𝐩s from scratch.
-- Worked on apps with a 10 million monthly active user base.
-- Understanding of cross-platform tech and app behaviour like iOS, Android, Apple TV, and watchOS.
-- Managed mid level team size(6 to 10) with quality delivery.
-- I am learning deep ML concept for mobile use-case using Python.
+- Currently working at [British Telecom] as a Lead Mobile Developer.
+- Re-architected and built **Voot** and **JioCinema** apps from scratch.
+- Worked on apps with over 10 million monthly active users.
+- Strong understanding of cross-platform technologies and ecosystems across iOS, Android, Apple TV, and watchOS.
+- Successfully managed mid-sized teams (6 to 10 members) and delivered high-quality products.
+- Currently learning deep machine learning concepts for mobile use cases using **Python**.
+
+---
 
 ---
 
@@ -117,7 +119,7 @@ I'm 𝐊𝐚𝐮𝐬𝐡𝐚𝐥 🧑‍💻. Having 13+ years of experience wit
 
 ## Popular App I works:
 
-OTT app (JioCinema & Voot)
+### OTT Apps: **JioCinema & Voot**
   
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
@@ -139,7 +141,8 @@ OTT app (JioCinema & Voot)
 </div>
 
 
-- Honeywell Total Connect app
+### Honeywell Total Connect App
+
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
     <iframe src="https://www.youtube.com/embed/65cpME3ij5o"
@@ -160,7 +163,8 @@ OTT app (JioCinema & Voot)
   </div>
 </div>
 
-Honeywell Building solutions:
+### Honeywell Building Solutions
+
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
     <iframe src="https://www.youtube.com/embed/aKAZ1o_rgfI"
@@ -202,38 +206,39 @@ Send texts, voice messages, photos, videos, GIFs, and files for free. Signal use
 
 ---
 
-## My Tech Openions
+## 💡 My Tech Opinions
 
-- Team Lead - A fancy title or Squaden Leader?
-- Why Team Building matter to boost productivity. 
-- My Walking Skelton App.
-- Why MVVM wins always.
-- Peer programming- Does it really work?
-- Will Unit Test slow down the development?
+- Team Lead — A fancy title or Squad Leader?
+- Why team building matters for boosting productivity.
+- My Walking Skeleton App.
+- Why MVVM always wins.
+- Pair programming — Does it really work?
+- Will unit testing slow down development?
 
 ---
 
-## Community Service
+## 🤝 Community Service
 
-Checkout below activity and if this found relevent to your career groth. you can direct message me on [LinkedIn]
+Feel free to connect if any of the following resonates with your career growth. You can DM me on [LinkedIn].
 
-- Reviewed 5k+ resumes for mobile developer at every levels.
-- Interviewed 1k+ condidate for first-round.
-- Interviewed 50+ Colledge graduate student in On-Campus & Off-Campus drive.
-- Interviewed 100+ second-round ones. 
-- Participated in 5+ heckathon events.
-- Joined 10+ community meetup community.
-- Conducted 10+ open mentoring 1-on-1 session on request.
+- Reviewed 5,000+ mobile developer resumes across levels.
+- Interviewed 1,000+ candidates in first-round interviews.
+- Interviewed 50+ college graduates in both on-campus and off-campus drives.
+- Interviewed 100+ candidates in second-round interviews.
+- Participated in 5+ hackathons.
+- Attended 10+ community meetups.
+- Delivered 10+ open mentoring 1-on-1 sessions upon request.
 
-## Hire ME
-Reach out me at kaushalyuvi@gmail.com for below Role, Please mention relevent option in subject line to for prompt reply.
+## 📬 Hire Me
 
-- Full Time: Technical Engineering Manager / Associate Architect
-- On-Demand: Consultant: Measure App performance and propose Inprovement.
-- On-Demand: Consultant: Solve Critical App journey (Crash / Streaming / Payment / VOIP / Clean code Skelton )
-- On-Demand: Consultant: Encourage Pair programming to boost your team velocity.
-- On-Demand: Consultant: Week-end Interview pannel
+Reach out to me at **kaushalyuvi@gmail.com** for the roles below. Please include the relevant option in the subject line for a prompt response.
 
+- **Full Time:** Technical Engineering Manager / Associate Architect
+- **On-Demand Consultant:**  
+  - Measure app performance & propose improvements  
+  - Solve critical app issues (Crashes / Streaming / Payments / VOIP / Clean Architecture)  
+  - Boost team velocity through pair programming  
+  - Weekend interview panel support
 
 ---
 

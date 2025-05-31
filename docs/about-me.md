@@ -4,11 +4,17 @@ nav_order: 1.5
 ---
 
 ## Who Am I
-{: .no_toc }
-Dynamic Mobile Architect with 13+ years of extensive experience in Native iOS and Android app development.
-Specialized in building and scaling high-performance apps for millions of users.
-Proven expertise in system design, scalable architecture, cross-functional leadership, and end-to-end product delivery for large platforms like JioCinema and Voot.
-Passionate about solving complex problems, driving innovation, and mentoring future engineering leaders.
+
+I'm 𝐊𝐚𝐮𝐬𝐡𝐚𝐥 🧑‍💻. Having 13+ years of experience with iOS & Android app Developer. 
+
+- Currently, working with [British Telecom]! as Lead Mobile Developer.
+- Re-architecture and built Voot, 𝐉𝐢𝐨 𝐂𝐢𝐧𝐞𝐦𝐚 A𝐩𝐩s from scratch.
+- Worked on apps with a 10 million monthly active user base.
+- Understanding of cross-platform tech and app behaviour like iOS, Android, Apple TV, and watchOS.
+- Managed mid level team size(6 to 10) with quality delivery.
+- I am learning deep ML concept for mobile use-case using Python.
+
+---
 
 ## Programming Language I ❤️
 - <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> **Swift** — Native iOS development with fast, safe code
@@ -17,12 +23,15 @@ Passionate about solving complex problems, driving innovation, and mentoring fut
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="20"/> **Java** — Reliable for backend systems and Android apps
 - <img src="https://img.icons8.com/color/48/000000/dart.png" width="20"/> **Dart** — UI-first language for cross-platform Flutter apps
 
+---
+
 ## 🛠️ Editors I Code In
 
 - <img src="https://img.icons8.com/color/48/xcode.png" width="20"/> **Xcode** — Best for native iOS/macOS development with Swift & Obj-C  
 - <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="20"/> **Android Studio** — Full-featured IDE for Android app development  
 - <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" width="20"/> **VS Code** — Lightweight editor I use for Python, Flutter, and Web
 
+---
 
 ## 📱 Platforms I Can Build Apps For
 
@@ -32,6 +41,7 @@ Passionate about solving complex problems, driving innovation, and mentoring fut
 - <img src="https://img.icons8.com/office/40/mac-os.png" width="20"/> **macOS** — Desktop apps with SwiftUI or Catalyst  
 - <img src="https://img.icons8.com/fluency/48/apple-tv.png" width="20"/> **tvOS** — Large-screen experiences for Apple TV  
 
+---
 
 ## 🏆 Tech I Am a Champ Of
 
@@ -103,6 +113,7 @@ Passionate about solving complex problems, driving innovation, and mentoring fut
 
 </div>
 
+---
 
 ## Popular App I works:
 
@@ -189,15 +200,42 @@ Send texts, voice messages, photos, videos, GIFs, and files for free. Signal use
   </div>
 </div>
 
-
-## My Tech Openion:
 ---
-- Unit Testing, Team Building, Automation, 3rd party framework, Paid Solutions. MVP App, My Walking Skelton. Animation Rich App.
-- [Why MVVM wins always]!
-- Will VIP works for me.
-- Why not MVP any more.
-- Why VIPER is absolute for FE design.
+
+## My Tech Openions
+
+- Team Lead - A fancy title or Squaden Leader?
+- Why Team Building matter to boost productivity. 
+- My Walking Skelton App.
+- Why MVVM wins always.
+- Peer programming- Does it really work?
+- Will Unit Test slow down the development?
+
+---
+
+## Community Service
+
+Checkout below activity and if this found relevent to your career groth. you can direct message me on [LinkedIn]
+
+- Reviewed 5k+ resumes for mobile developer at every levels.
+- Interviewed 1k+ condidate for first-round.
+- Interviewed 50+ Colledge graduate student in On-Campus & Off-Campus drive.
+- Interviewed 100+ second-round ones. 
+- Participated in 5+ heckathon events.
+- Joined 10+ community meetup community.
+- Conducted 10+ open mentoring 1-on-1 session on request.
+
+## Hire ME
+Reach out me at kaushalyuvi@gmail.com for below Role, Please mention relevent option in subject line to for prompt reply.
+
+- Full Time: Technical Engineering Manager / Associate Architect
+- On-Demand: Consultant: Measure App performance and propose Inprovement.
+- On-Demand: Consultant: Solve Critical App journey (Crash / Streaming / Payment / VOIP / Clean code Skelton )
+- On-Demand: Consultant: Encourage Pair programming to boost your team velocity.
+- On-Demand: Consultant: Week-end Interview pannel
 
 
-----
-[Personal Motto]: {{ "../docs/my-resume/" | relative_url }}
+---
+
+[LinkedIn]: {{ "https://www.linkedin.com/in/kaushlendrapal/"}}
+[British Telecom]: {{"https://www.bt.com/"}}

@@ -3,52 +3,100 @@ title: About Me
 nav_order: 1.5
 ---
 
-## Professional Summary:
+## Who Am I
 {: .no_toc }
-I'm 𝐊𝐚𝐮𝐬𝐡𝐚𝐥 🧑‍💻. Having 13 years of experience with iOS & Android app Developer. 
+Dynamic Mobile Architect with 13+ years of extensive experience in Native iOS and Android app development.
+Specialized in building and scaling high-performance apps for millions of users.
+Proven expertise in system design, scalable architecture, cross-functional leadership, and end-to-end product delivery for large platforms like JioCinema and Voot.
+Passionate about solving complex problems, driving innovation, and mentoring future engineering leaders.
 
-• Currently, working with British Telecom as Lead Mobile Developer.
-• Re-architecture and built Voot, 𝐉𝐢𝐨 𝐂𝐢𝐧𝐞𝐦𝐚 𝐢𝐎𝐒 𝐚𝐩𝐩 from scratch.
-. Worked on apps with a 10 million monthly active user base.
-• Understanding of cross-platform tech and app behaviour like iOS, Android, Apple TV, and watchOS.
-• Ability to manage mid level team size(6 to 10) with quality delivery.
-• Strongly believes in being results-oriented and getting things done.
-• Passionate about building apps with system failover, scale, and flexibility.
+## Programming Language I ❤️
+Swift, Kotlin, Python,  Java, Dart
 
-## My Tech Openion:
-{: .no_toc }
+## Editors I Code
+Xcode, Android Studio, Visual Studio
 
-1. TOC
-{:toc}
+## Platform I can build Apps
+iOS, Android, iPadOS, macOS, tvOS
 
----
-## Unit Testing, Team Building, Automation, 3rd party framework, Paid Solutions. MVP App, My Walking Skelton. Animation Rich App.
-[Why MVVM wins always]!
- Will VIP works for me.
-## Why not MVP any more.
-## Why VIPER is absolute for FE design.
+## Work I am Proud of
+
+OTT app (JioCinema & Voot)
+  
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
+    <iframe src="https://www.youtube.com/embed/ox68DSxs0Ow"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+  <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
+    <iframe src="https://www.youtube.com/embed/wSUDpY-TOLQ"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+</div>
+
+
+- Honeywell Total Connect app
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
+    <iframe src="https://www.youtube.com/embed/65cpME3ij5o"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+  
+  <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
+    <iframe src="https://www.youtube.com/embed/f3tdHDdMOsw"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+</div>
+
+Honeywell Building solutions:
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
+    <iframe src="https://www.youtube.com/embed/aKAZ1o_rgfI"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+  
+  <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
+    <iframe src="https://www.youtube.com/embed/KssEKDqrXuw"
+            title="YouTube video player"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+  </div>
+</div>
+
 
 ## Open Source:
-{: .no_toc }
 • Love to contribute to open source.
 • Exploring signalapp code for iOS and Android, link: https://github.com/signalapp/Signal-Android
 
-## My current Learnings:
-{: .no_toc }
-• Learning Python 🐍 with ML use case.
-• Looking for a mentor with hands-on experience in AI mobile use-case or FinTech background.
-
-## Build for Scale And Build for Premium Service, What works for you:
-{: .no_toc }
-
-## 🏆 Key Achievements
-{: .no_toc }
-Successfully led and scaled apps with user base from 10K to 50 million+ on iOS and 2.5 crore across platforms.
-Achieved 99.80% crash-free sessions on high-scale mobile apps through optimized architecture and CI/CD best practices.
-Architected and delivered critical modules like Playback, Analytics, Subscription, and Tech Innovations for OTT giants.
-Built loosely coupled modular frameworks with feature switch-based deployments ensuring dynamic app releases.
-Actively participated in hiring, setting code review and blueprint discussion standards across teams.
-Designed and implemented UML and Data Flow Diagrams for management and cross-team visibility.
+## My Tech Openion:
+---
+- Unit Testing, Team Building, Automation, 3rd party framework, Paid Solutions. MVP App, My Walking Skelton. Animation Rich App.
+- [Why MVVM wins always]!
+- Will VIP works for me.
+- Why not MVP any more.
+- Why VIPER is absolute for FE design.
 
 
 

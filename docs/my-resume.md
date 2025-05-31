@@ -9,25 +9,15 @@ nav_order: 2.0
 Contact| 📞 8762548021 | 📧 kaushalyuvi@gmail.com | Bangalore India |
 Social | [LinkedIn](https://www.linkedin.com/in/kaushlendrapal/) | [GitHub](https://github.com/kaushlendrapal) | [LeetCode](https://leetcode.com/u/kaushlendrapal/)
 
-## Who Am I
+I'm 𝐊𝐚𝐮𝐬𝐡𝐚𝐥 🧑‍💻. Having 13 years of experience with iOS & Android app Developer. 
 
-Dynamic Mobile Architect with 13+ years of extensive experience in Native iOS and Android app development.
-Specialized in building and scaling high-performance apps for millions of users.
-Proven expertise in system design, scalable architecture, cross-functional leadership, and end-to-end product delivery for large platforms like JioCinema and Voot.
-Passionate about solving complex problems, driving innovation, and mentoring future engineering leaders.
-
-
-## Core Skills You are Looking For
-
-Swift, Objective-C, Kotlin, Java, Dart, UIKit, SwiftUI, Jetpack Compose
-
-## Editors I Code
-
-Xcode, Android Studio, Visual Studio
-
-## Platform I can build Apps
-
-iOS, Android, iPadOS, macOS, tvOS
+• Currently, working with British Telecom as Lead Mobile Developer.
+• Re-architecture and built Voot, 𝐉𝐢𝐨 𝐂𝐢𝐧𝐞𝐦𝐚 𝐢𝐎𝐒 𝐚𝐩𝐩 from scratch.
+. Worked on apps with a 10 million monthly active user base.
+• Understanding of cross-platform tech and app behaviour like iOS, Android, Apple TV, and watchOS.
+• Ability to manage mid level team size(6 to 10) with quality delivery.
+• Strongly believes in being results-oriented and getting things done.
+• Passionate about building apps with system failover, scale, and flexibility.
 
 
 ## My Architecture Philosophy
@@ -192,5 +182,10 @@ Active contributor to open discussions on GitHub and StackOverflow.
 ## ✨ Personal Motto
 "Build scalable apps. Architect for the future. Lead with empathy."
 
-
-
+## 🏆 Key Achievements
+Successfully led and scaled apps with user base from 10K to 50 million+ on iOS and 2.5 crore across platforms.
+Achieved 99.80% crash-free sessions on high-scale mobile apps through optimized architecture and CI/CD best practices.
+Architected and delivered critical modules like Playback, Analytics, Subscription, and Tech Innovations for OTT giants.
+Built loosely coupled modular frameworks with feature switch-based deployments ensuring dynamic app releases.
+Actively participated in hiring, setting code review and blueprint discussion standards across teams.
+Designed and implemented UML and Data Flow Diagrams for management and cross-team visibility.

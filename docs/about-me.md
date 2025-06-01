@@ -28,6 +28,16 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 
 ---
 
+##  🏢 Companies I Serve
+<br>
+- <img src="https://static.cdnlogo.com/logos/b/55/british-telecom.svg" width="44" />    British Telecom
+- <img src="https://seeklogo.com/images/V/viacom18-logo-452234C3D0-seeklogo.com.png" width="44" />    Viacom18 (merged with JioStar)
+- <img src="https://companieslogo.com/img/orig/HON_BIG-3e7e5f0c.png" width="44" />   Honeywell Solutions
+- <img src="https://companieslogo.com/img/orig/HON_BIG-3e7e5f0c.png" width="44" />   Happiest Minds Technology
+- <img src="https://via.placeholder.com/20x20.png?text=E" width="44" />   Exilant Technology (Apple's Offshore Development Centre)
+
+---
+
 ## 🛠️ Editors I Code In
 <br>
 - <img src="https://img.icons8.com/color/48/xcode.png" width="20"/> **Xcode** — Best for native iOS/macOS development with Swift & Obj-C  

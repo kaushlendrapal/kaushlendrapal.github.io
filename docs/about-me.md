@@ -16,8 +16,6 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 
 ---
 
----
-
 ## Programming Language I ❤️
 - <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> **Swift** — Native iOS development with fast, safe code
 - <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="20"/> **Kotlin** — Modern Android language with null-safety
@@ -32,7 +30,7 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 - <img src="https://img.icons8.com/color/48/xcode.png" width="20"/> **Xcode** — Best for native iOS/macOS development with Swift & Obj-C  
 - <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="20"/> **Android Studio** — Full-featured IDE for Android app development  
 - <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" width="20"/> **VS Code** — Lightweight editor I use for Python, Flutter, and Web
-
+<img src="https://img.icons8.com/color/48/pycharm.png" width="20"/> **PyCharm** — Full-featured IDE I use for Python development
 ---
 
 ## 📱 Platforms I Can Build Apps For
@@ -113,6 +111,22 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
     </div>
   </div>
 
+  <div style="flex: 1 1 300px; display: flex; align-items: center; gap: 12px;">
+  <img src="https://img.icons8.com/color/48/firebase.png" width="30" alt="Firebase Backend Platform"/>
+   <div>
+    <strong>Firebase Backend-as-a-Service Platform</strong><br/>
+    Used Firebase for Crashlytics, A/B Testing, Remote Config, and Marketing Notifications.
+   </div>
+  </div>
+  
+  <div style="flex: 1 1 300px; display: flex; align-items: center; gap: 12px;">
+  <img src="https://img.icons8.com/color/48/appointment-reminders--v1.png" width="30" alt="Push Notifications"/>
+  <div>
+    <strong>Push Notifications (FCM & APNs)</strong><br/>
+    Implemented push delivery using Firebase Cloud Messaging and Apple Push Notification Service with deep linking and rich media support.
+  </div>
+  </div>
+
 </div>
 
 ---
@@ -120,7 +134,7 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 ## Popular App I works:
 
 ### OTT Apps: **JioCinema & Voot**
-  
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
     <iframe src="https://www.youtube.com/embed/ox68DSxs0Ow"
@@ -142,7 +156,7 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 
 
 ### Honeywell Total Connect App
-
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
     <iframe src="https://www.youtube.com/embed/65cpME3ij5o"
@@ -164,7 +178,7 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 </div>
 
 ### Honeywell Building Solutions
-
+<br>
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   <div style="flex: 1 1 300px; aspect-ratio: 16/9; position: relative; min-width: 300px;">
     <iframe src="https://www.youtube.com/embed/aKAZ1o_rgfI"
@@ -185,8 +199,10 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
   </div>
 </div>
 
+---
 
 ## Open Source:
+<br>
 Signal App: Signal is a simple, powerful, and secure messenger.Here is what i am working on.
 Signal is a messaging app with privacy at its core. It is free and easy to use, with strong end-to-end encryption that keeps your communication completely private.
 Send texts, voice messages, photos, videos, GIFs, and files for free. Signal uses your phone’s data connection, so you avoid SMS and MMS fees.

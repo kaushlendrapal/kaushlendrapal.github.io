@@ -4,19 +4,22 @@ nav_order: 1.5
 ---
 
 ## Who Am I
+<br>
 
 I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in iOS and Android app development.
 
 - Currently working at [British Telecom] as a Lead Mobile Developer.
-- Re-architected and built **Voot** and **JioCinema** apps from scratch.
+- Re-architected and built **Voot** and **[JioCinema]** apps from scratch.
+- Refactoring and Rebranding 12 years old legacy [Business App] with multi module architecture.
 - Worked on apps with over 10 million monthly active users.
+- Experience in building scalable IoT apps with DIY integration of popular hardware products such as garage doors, smart switches, cameras, smart locks, smoke detectors, lighting systems, and comfort sensors.
 - Strong understanding of cross-platform technologies and ecosystems across iOS, Android, Apple TV, and watchOS.
-- Successfully managed mid-sized teams (6 to 10 members) and delivered high-quality products.
 - Currently learning deep machine learning concepts for mobile use cases using **Python**.
 
 ---
 
 ## Programming Language I ❤️
+<br>
 - <img src="https://img.icons8.com/color/48/000000/swift.png" width="20"/> **Swift** — Native iOS development with fast, safe code
 - <img src="https://img.icons8.com/color/48/000000/kotlin.png" width="20"/> **Kotlin** — Modern Android language with null-safety
 - <img src="https://img.icons8.com/color/48/000000/python.png" width="20"/> **Python** — Ideal for automation, ML, and fast prototyping
@@ -26,15 +29,16 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 ---
 
 ## 🛠️ Editors I Code In
-
+<br>
 - <img src="https://img.icons8.com/color/48/xcode.png" width="20"/> **Xcode** — Best for native iOS/macOS development with Swift & Obj-C  
 - <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="20"/> **Android Studio** — Full-featured IDE for Android app development  
 - <img src="https://img.icons8.com/fluent/48/visual-studio-code-2019.png" width="20"/> **VS Code** — Lightweight editor I use for Python, Flutter, and Web
 <img src="https://img.icons8.com/color/48/pycharm.png" width="20"/> **PyCharm** — Full-featured IDE I use for Python development
+
 ---
 
 ## 📱 Platforms I Can Build Apps For
-
+<br>
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20"/> **iOS** — Native iPhone app development with Swift  
 - <img src="https://img.icons8.com/ios/50/ipad--v1.png" width="20"/> **iPadOS** — Tablet-specific layouts and multitasking features
 - <img src="https://img.icons8.com/color/48/000000/android-os.png" width="20"/> **Android** — Modern apps using Kotlin or Java  
@@ -43,7 +47,8 @@ I'm **Kaushal** 🧑‍💻, a mobile developer with 13+ years of experience in 
 
 ---
 
-## 🏆 Tech I Am a Champ Of
+## 🚀 Tech Domains I Excel In
+<br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
 
@@ -223,7 +228,7 @@ Send texts, voice messages, photos, videos, GIFs, and files for free. Signal use
 ---
 
 ## 💡 My Tech Opinions
-
+<br>
 - Team Lead — A fancy title or Squad Leader?
 - Why team building matters for boosting productivity.
 - My Walking Skeleton App.
@@ -234,7 +239,7 @@ Send texts, voice messages, photos, videos, GIFs, and files for free. Signal use
 ---
 
 ## 🤝 Community Service
-
+<br>
 Feel free to connect if any of the following resonates with your career growth. You can DM me on [LinkedIn].
 
 - Reviewed 5,000+ mobile developer resumes across levels.
@@ -246,7 +251,7 @@ Feel free to connect if any of the following resonates with your career growth. 
 - Delivered 10+ open mentoring 1-on-1 sessions upon request.
 
 ## 📬 Hire Me
-
+<br>
 Reach out to me at **kaushalyuvi@gmail.com** for the roles below. Please include the relevant option in the subject line for a prompt response.
 
 - **Full Time:** Technical Engineering Manager / Associate Architect
@@ -260,3 +265,5 @@ Reach out to me at **kaushalyuvi@gmail.com** for the roles below. Please include
 
 [LinkedIn]: {{ "https://www.linkedin.com/in/kaushlendrapal/"}}
 [British Telecom]: {{"https://www.bt.com/"}}
+[JioCinema]: {{"https://www.hotstar.com/in/home"}}
+[Business App]: {{"https://business.bt.com/business-app"}}
